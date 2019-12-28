@@ -1,0 +1,19 @@
+{
+    "name": "haitv282/qvalent-payway",
+    "description": "Qvalent PayWay Cards API for PHP",
+    "keywords": ["payway", "payment", "sdk", "qvalent"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Qvalent Pty Ltd."
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "Qvalent_PayWayAPI.php"
+        ]
+    }
+}
